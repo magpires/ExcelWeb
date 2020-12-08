@@ -16,5 +16,10 @@ namespace Excel_Web
         {
             InitializeComponent();
         }
+
+        private void Browser_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
